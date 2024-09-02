@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UI_Reportes_PDF_EXCEL.props" />
+</Project>

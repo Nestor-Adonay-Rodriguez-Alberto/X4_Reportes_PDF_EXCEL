@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UI_Reportes_PDF_EXCEL
+build_property.RootNamespace = UI_Reportes_PDF_EXCEL
+build_property.ProjectDir = C:\Users\MINEDUCYT\Desktop\Apps Con Tecnologia Wed\X4_Reportes_PDF_EXCEL\UI_Reportes_PDF_EXCEL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MINEDUCYT\Desktop\Apps Con Tecnologia Wed\X4_Reportes_PDF_EXCEL\UI_Reportes_PDF_EXCEL
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Empleados/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Empleados/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Empleados/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Empleados/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Empleados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Facturas/_Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcX0RldGFsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Reporte_PDF_EXCEL/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0ZV9QREZfRVhDRUxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Reporte_PDF_EXCEL/Reporte_PDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0ZV9QREZfRVhDRUxcUmVwb3J0ZV9QREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Apps Con Tecnologia Wed/X4_Reportes_PDF_EXCEL/UI_Reportes_PDF_EXCEL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-psr1wy87xf
